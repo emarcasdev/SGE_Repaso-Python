@@ -1,4 +1,4 @@
-# Repaso de Python para Sistemas de Gestión Empresarial
+# Repaso de Python para SGE
 
 ## Objetivo:
 Repasar los conceptos fundamentales de Python para preparar a los alumnos en el desarrollo de módulos Odoo.
